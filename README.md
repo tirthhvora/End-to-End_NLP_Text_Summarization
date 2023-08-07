@@ -1,5 +1,5 @@
 Hello! This is an end-to-end project for Text summarization and the setup might look overwhelming at once. So I will explain the entire process step by step.
-
+Note: Removed from AWS because exceeded usage limit
 ## Initial setup steps
 
 1. Instead of manually creating folders, we used the 'os' library to create directories, constructors and files in template.py and we executed it.
